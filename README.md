@@ -1,6 +1,6 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE:  26.09.2023
 
 ## AIM:
 
@@ -53,10 +53,13 @@
 
 
 ## Output:
+![image](https://github.com/ATHMAJ03/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118753139/e0cf5f6b-940c-4cf7-9165-43ca03569f50)
+![image](https://github.com/ATHMAJ03/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118753139/86b4b24f-8f46-47c8-aa4a-b80f0cd31916)
+![image](https://github.com/ATHMAJ03/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118753139/d4cc5e7d-2d7f-4570-8c41-21618716f196)
 
 
-### Name:
-### Register Number: 
+### Name: MAHESH RAJ PUROHIT 
+### Register Number: 212222240058
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
